@@ -1,0 +1,5 @@
+É necessário instalar os módulos:
+  -Cows
+    -- npm install cows
+  -Cow Say
+    -- npm install cowsay
